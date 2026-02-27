@@ -22,7 +22,6 @@ To modify a booking, follow these steps:
 
 ## Important Considerations
 
-- **Cancellation policy:** The cancellation policy of the original booking applies when cancelling. Check the `cancelation-policy-items` on the rental to determine whether a penalty fee will be charged.
 - **Availability:** Before cancelling the existing booking, confirm that the rental is available for the new dates or configuration to avoid leaving the guest without accommodation.
 - **Pricing:** Always create a new quote for the updated booking details to get the confirmed price before creating the new booking.
 - **Guest communication:** Inform the guest of the cancel-and-rebook process and any cost implications before initiating it.
